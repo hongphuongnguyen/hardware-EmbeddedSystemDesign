@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=OSC32_OUT Pin=Y2-1
+Removed Pin From Net: NetName=OSC32_IN Pin=Y2-2
+Added Component: Designator=X1(XT2-32.768KHz-2_V)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OSC32_OUT Pin=X1-1
+Added Pin To Net: NetName=OSC32_IN Pin=X1-2
+Added Member To Class: ClassName=SchEmbeddedSystemDesign Member=Component C13 104
+Added Member To Class: ClassName=SchEmbeddedSystemDesign Member=Component C18 100uF
+Added Member To Class: ClassName=SchEmbeddedSystemDesign Member=Component X1 32.768KHz
+Added Room: Name=SchEmbeddedSystemDesign

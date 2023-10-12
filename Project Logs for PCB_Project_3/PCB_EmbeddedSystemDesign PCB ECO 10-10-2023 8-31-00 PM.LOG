@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SDA Pin=JP4-2
+Removed Pin From Net: NetName=SCL Pin=JP4-3
+Added Pin To Net: NetName=SCL Pin=JP4-2
+Added Pin To Net: NetName=SDA Pin=JP4-3
+Added Member To Class: ClassName=SchEmbeddedSystemDesign Member=Component C3 104
+Added Room: Name=SchEmbeddedSystemDesign
